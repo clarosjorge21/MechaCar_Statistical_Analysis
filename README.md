@@ -10,11 +10,11 @@ We are currently helping Jeremy along with the data analytics team do the follow
 ## Linear Regression to Predict MPG
 ![This is an image](https://github.com/clarosjorge21/MechaCar_Statistical_Analysis/blob/0e341250908d7e6e3ad3148f9c15010abb8745d9/Resources/Deliverable1.PNG)
 
-Ground_Clearance and Vehicle_Length had the largest amount of random variances. Vehicle_weight, spoiler_angle and AWD had gaven us a non-random amount of varriance. 
+* Ground_Clearance and Vehicle_Length had the largest amount of random variances. Vehicle_weight, spoiler_angle and AWD had gaven us a non-random amount of varriance. 
 
-If you look at the p value we receieve a level of 0.05, even though it is close to 0, it is not 0. 
+* If you look at the p value we receieve a level of 0.05, even though it is close to 0, it is not 0. 
 
-This linear model predicts the mpg of MechaCar pretty well. By looking at our R-squared value, we get a 71% of model being predicted correctly. 
+* This linear model predicts the mpg of MechaCar pretty well. By looking at our R-squared value, we get a 71% of model being predicted correctly. 
 
 ## Summary Statistics on Suspension Coils
 #### Total Summary
