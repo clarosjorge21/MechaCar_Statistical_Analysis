@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-## Project Overiview
+## Project Overview
 We are currently helping Jeremy along with the data analytics team do the following:
 * Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 * Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
